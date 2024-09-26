@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Sem 5\DSD\Individulal Project\Final Design\32bit-Floating-Point-ALU-Design-Using-FPGA\fp_muliplier
+vprogram_counter
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 I^=c?g[Uh5@^EPES^]HbDi0
+Z3 VQ88eL:7m>:lzfeJTHMTbn1
+S1
+Z4 dG:\Sem 5\DSD\Group project\32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA\Modelsim Simulation files
+Z5 w1727333291
+Z6 8G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter.sv
+Z7 FG:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter.sv
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 o-work work -sv -O0
+!i10b 1
+Z10 !s100 nZ;P[l3=F<n]FaAld`^Ng0
+Z11 !s105 program_counter_sv_unit
+!s85 0
+Z12 !s108 1727333558.661000
+Z13 !s107 G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter.sv|
+Z14 !s90 -reportprogress|300|-work|work|-sv|G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter.sv|
+!s101 -O0
+vprogram_counter_tb
+R1
+!i10b 1
+!s100 b]R`[LOzUZXCohaF6i?hO1
+I9;N@Nd?C<8?JzVE6g3h9K3
+V`l?Fz^4@?A:fhMRi2^TU=1
+!s105 program_counter_tb_sv_unit
+S1
+R4
+w1727333289
+8G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter_tb.sv
+FG:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter_tb.sv
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1727333558.968000
+!s107 G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter_tb.sv|
+!s101 -O0
+R9
