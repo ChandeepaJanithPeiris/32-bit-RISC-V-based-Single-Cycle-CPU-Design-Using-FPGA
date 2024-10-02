@@ -1,0 +1,15 @@
+{G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter_tb.sv} {1 {vlog -work work -sv {G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module program_counter_tb
+
+Top level modules:
+	program_counter_tb
+
+} {} {}} {G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter.sv} {1 {vlog -work work -sv {G:/Sem 5/DSD/Group project/32-bit-RISC-V-based-Single-Cycle-CPU-Design-Using-FPGA/program_counter.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}}
